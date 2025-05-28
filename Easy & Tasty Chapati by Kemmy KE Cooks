@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yammie Foodies - Easy & Tasty Chapati by Kemmy KE Cooks</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fffaf2;
+      color: #333;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #d35400;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 8px;
+      margin: 10px 0;
+    }
+    .step {
+      margin-bottom: 20px;
+    }
+    .ingredients, .instructions {
+      background-color: #fff3e0;
+      padding: 15px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Yammie Foodies</h1>
+  <h2>Easy & Tasty Chapati by Kemmy KE Cooks</h2>
+
+  <div class="ingredients">
+    <h3>Ingredients (for 10 Chapatis)</h3>
+    <ul>
+      <li>4 cups all-purpose flour</li>
+      <li>1/2 of a small pumpkin</li>
+      <li>1/2 tablespoon salt</li>
+      <li>1/2 tablespoon sugar</li>
+      <li>1/4 cup water</li>
+      <li>Vegetable oil</li>
+    </ul>
+  </div>
+
+  <div class="instructions">
+    <h3>Cooking Instructions</h3>
+
+    <div class="step">
+      <strong>Step 1:</strong> Cook and mash the pumpkin.
+    </div>
+
+    <div class="step">
+      <strong>Step 2:</strong> Prepare the dough: in a bowl mix the pumpkin, the flour, the salt, the sugar and some oil; using water, make an elastic and well-moist paste.
+      <br><em>[Insert picture of step 2]</em>
+    </div>
+
+    <div class="step">
+      <strong>Step 3:</strong> Cover and leave the dough to rest for 10 min.
+      <br><em>[Insert picture of step 3]</em>
+    </div>
+
+    <div class="step">
+      <strong>Step 4:</strong> Roll flat the dough and make a big circle, then brush with oil.
+    </div>
+
+    <div class="step">
+      <strong>Step 5:</strong> Cut long pieces of the dough.
+      <br><em>[Insert picture of step 5]</em>
+    </div>
+
+    <div class="step">
+      <strong>Step 6:</strong> Fold and roll with both hands from the ends to make a rope-like shape and make coiled balls.
+      <br><em>[Insert picture of step 6]</em>
+    </div>
+
+    <div class="step">
+      <strong>Step 7:</strong> Roll the coiled balls flat and make smaller circular shapes (1 ball = 1 chapati).
+    </div>
+
+    <div class="step">
+      <strong>Step 8:</strong> Heat a frying pan and fry the chapati on both sides (they need to be cooked without browning).
+      <br><em>[Insert picture of step 8]</em>
+    </div>
+
+    <div class="step">
+      <strong>Step 9:</strong> Fry the chapatis again while brushing them with oil to keep them moist...they are ready when both sides are golden brown.
+      <br><em>[Insert picture of step 9]</em>
+    </div>
+
+    <div class="step">
+      <strong>Step 10:</strong> Use some foil to keep the chapatis warm while you are frying (you will need to keep them warm to be able to shape them properly before serving).
+      <br><em>[Insert picture of step 10]</em>
+    </div>
+
+    <div class="step">
+      <strong>Step 11:</strong> You can serve the chapatis by folding them in a triangle shape.
+      <br><em>[Insert picture of step 11]</em>
+    </div>
+  </div>
+</body>
+</html>
